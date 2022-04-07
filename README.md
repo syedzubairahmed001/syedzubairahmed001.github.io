@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zubair</h1>
-<h3 align="center">A passionate full stack developer from India, Hyderabad. I create magic with React,</h3>
+<h3 align="center">A full stack developer from India, Hyderabad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedzubairahmed001&label=Profile%20views&color=0e75b6&style=flat" alt="syedzubairahmed001" /> </p>
 
